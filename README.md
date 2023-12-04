@@ -2,7 +2,8 @@
 
 ## Welcome to My GitHub Profile!
 
-Hello there! 👋🏾  My name is Wessley but you can call me Wess, a passionate full stack developer with a knack for building web applications that make a difference. This is my GitHub space where I share my projects, experiments, and contributions to the open-source community.
+Hello there! 👋🏾  
+My name is Wessley but you can call me Wess, a passionate full stack developer with a knack for building web applications that make a difference. This is my GitHub space where I share my projects, experiments, and contributions to the open-source community.
 
 ### 🚀 My Tech Stack
 
@@ -27,11 +28,12 @@ I believe in continuous learning and improvement. Currently, I'm exploring:
 - [NextJsReact]
 - [TailwindCSS]
 
+<!--
 ### 🤝 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [@YourTwitterHandle](Link to Twitter)
-- Portfolio: [Your Portfolio Website](Link to Portfolio)
+- Portfolio: [Your Portfolio Website](Link to Portfolio) 
+-->
 
 ### 📬 How to Reach Me
 
