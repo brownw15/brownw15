@@ -13,9 +13,10 @@ My name is Wessley but you can call me Wess, a passionate full stack developer w
 - **Tools:** Git, Docker, VS Code
 
 ### 🔧 Featured Projects
-- 🔭 I’m currently working on my own Web Portfolio & and a [Vehicle Dealership Web App](..blob/master/MortonsVehicleShop) to exercise my usage of APIs and data processing in new Frameworks such as Nextjs14/Vercel.  
+- 🔭 I’m currently working on my own Web Portfolio & and a [Vehicle Dealership Web App](https://github.com/brownw15/MortonsVechicleShop/tree/main) to exercise my usage of APIs and data processing in new Frameworks such as Nextjs14/Vercel.  
 <!--
 - 👯 I’m looking to collaborate on ...
+https://github.com/brownw15/MortonsVechicleShop/tree/main
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
