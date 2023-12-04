@@ -13,7 +13,7 @@ My name is Wessley but you can call me Wess, a passionate full stack developer w
 - **Tools:** Git, Docker, VS Code
 
 ### 🔧 Featured Projects
-- 🔭 I’m currently working on my own Web Portfolio!
+- 🔭 I’m currently working on my own Web Portfolio & and a [Vehicle Dealership Web App]() to exercise my usage of APIs and data processing in new Frameworks such as Nextjs14/Vercel.  
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,7 +25,7 @@ My name is Wessley but you can call me Wess, a passionate full stack developer w
 
 I believe in continuous learning and improvement. Currently, I'm exploring:
 
-- [NextJsReact]
+- [NextJsReact] - This has been one of my favorite frameworks to start working with in combination with ... 
 - [TailwindCSS]
 
 <!--
