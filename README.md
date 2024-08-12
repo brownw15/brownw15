@@ -28,6 +28,7 @@ I believe in continuous learning and improvement. Currently, I'm exploring:
 
 - [NextJsReact] - This has been one of my favorite frameworks to start working with in combination with ... 
 - [TailwindCSS]
+- [TypeScript] 
 
 <!--
 ### 🤝 Let's Connect!
