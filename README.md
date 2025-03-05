@@ -39,7 +39,7 @@ I believe in continuous learning and improvement. Currently, I'm exploring:
 
 ### 📬 How to Reach Me
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat. You can email me at [brownw15@winthropalumni.com](mailto:brownw15@winthropalumni.com).
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat. You can email me at [wessleybrowndev@proton.me](wessleybrowndev@proton.me).
 
 
 ### 🙏 Thank You for Visiting!
